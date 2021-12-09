@@ -1,17 +1,77 @@
-## Debbie's Musings of all things Data Science and Product
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-### How can Data Scientists and Product Managers work better together? 
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Debbie’s Musings of all things Data Science and Product </title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Debbie’s Musings of all things Data Science and Product" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Debbie’s blog" />
+<meta property="og:description" content="Debbie’s blog" />
+<link rel="canonical" href="https://d-zine.github.io/" />
+<meta property="og:url" content="https://d-zine.github.io/" />
+<meta property="og:site_name" content="d-zine.github.io" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Debbie’s Musings of all things Data Science and Product" />
+<script type="application/ld+json">
+{"description":"Debbie’s blog","url":"https://d-zine.github.io/","@type":"WebSite","headline":"Debbie’s Musings of all things Data Science and Product","name":"d-zine.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-Data scientists spend a lot of time building models, at the risk of getting distracted by ideas that do not actually help the business.
+    <link rel="stylesheet" href="/assets/css/style.css?v=84e862ccb5c30ba78f17c2260aac43ef07003298">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-Product managers are under pressure to ideate and drive a project from end to end, but do not always have insight into the data and the tradeoffs of different technical solutions. 
+<!-- Setup Google Analytics -->
 
-The next generation of data scientists will be expected to partner with PMs to drive ideation and ensure the data solution/feature is successfully implemented from end to end.  At the same time, PMs will be more differentiated by having deeper technical expertise and the ability to query and mine the data for new ideas. PMs can build technical skills via certification in SQL and familiarity with various use cases, so they do not have to rely on an analyst to validate what goes into production. 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H98K7H6QQK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-How can data scientists and product managers collaborate to generate new ideas?
-1.	Data scientists should attend biweekly stakeholder meetings to come up with inspiration for data science projects. Product managers are in constant contact with business stakeholders, so can help the data scientist identify existing business needs that require a data solution. That will ensure projects tie directly to business value and avoid foreseeable roadblocks. 
-2.	Product managers should help data scientists scope their projects to meet stakeholder expectations and deadlines. Product managers can utilize their influence and relationships across the organization to help data scientists productionize their solution.
+  gtag('config', 'G-H98K7H6QQK');
+</script>
 
-As PM of a data analytics team, I currently only work with our data scientist when we need to scale a Python UAT test. I find it challenging that a data scientist may rely on the PM to formulate the solution, to really know the nuances and edge cases of the business problem, while the data scientist is primarily responsible for coding out the solution. 
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
 
-To improve the situation and our relationship so the responsibilities are more evenly balanced, we are scheduling biweekly Data Science meetings to brainstorm and stay up-to-date on projects. At the same time, I am studying data science, Python, and SQL to be able to work directly with data scientists to ideate on the fly and connect the dots between ideas and the business context.
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://d-zine.github.io/">d-zine.github.io</a></h1>
+      
+
+      <h2 id="debbies-musings-of-all-things-data-science-and-product">Debbie’s Musings of all things Data Science and Product</h2>
+
+<h3 id="how-can-data-scientists-and-product-managers-work-better-together">How can Data Scientists and Product Managers work better together?</h3>
+
+<p>Data scientists spend a lot of time building models, at the risk of getting distracted by ideas that do not actually help the business.</p>
+
+<p>Product managers are under pressure to ideate and drive a project from end to end, but do not always have insight into the data and the tradeoffs of different technical solutions.</p>
+
+<p>The next generation of data scientists will be expected to partner with PMs to drive ideation and ensure the data solution/feature is successfully implemented from end to end.  At the same time, PMs will be more differentiated by having deeper technical expertise and the ability to query and mine the data for new ideas. PMs can build technical skills via certification in SQL and familiarity with various use cases, so they do not have to rely on an analyst to validate what goes into production.</p>
+
+<p>How can data scientists and product managers collaborate to generate new ideas?</p>
+<ol>
+  <li>Data scientists should attend biweekly stakeholder meetings to come up with inspiration for data science projects. Product managers are in constant contact with business stakeholders, so can help the data scientist identify existing business needs that require a data solution. That will ensure projects tie directly to business value and avoid foreseeable roadblocks.</li>
+  <li>Product managers should help data scientists scope their projects to meet stakeholder expectations and deadlines. Product managers can utilize their influence and relationships across the organization to help data scientists productionize their solution.</li>
+</ol>
+
+<p>As PM of a data analytics team, I currently only work with our data scientist when we need to scale a Python UAT test. I find it challenging that a data scientist may rely on the PM to formulate the solution, to really know the nuances and edge cases of the business problem, while the data scientist is primarily responsible for coding out the solution.</p>
+
+<p>To improve the situation and our relationship so the responsibilities are more evenly balanced, we are scheduling biweekly Data Science meetings to brainstorm and stay up-to-date on projects. At the same time, I am studying data science, Python, and SQL to be able to work directly with data scientists to ideate on the fly and connect the dots between ideas and the business context.</p>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
