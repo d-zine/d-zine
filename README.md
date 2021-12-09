@@ -1,2 +1,2 @@
-# d-zine.github.io
-Debbie's blog
+# Musings of all things Data Science and Product
+
