@@ -1,4 +1,4 @@
-## Musings of all things Data Science and Product
+## Debbie's Musings of all things Data Science and Product
 
 ### How can Data Scientists and Product Managers work better together? 
 
@@ -16,3 +16,5 @@ As PM of a data analytics team, I currently only work with our data scientist wh
 
 To improve the situation and our relationship so the responsibilities are more evenly balanced, we are scheduling biweekly Data Science meetings to brainstorm and stay up-to-date on projects. At the same time, I am studying data science, Python, and SQL to be able to work directly with data scientists to ideate on the fly and connect the dots between ideas and the business context.
 
+-------
+Special thanks to Nadav Rindler for peer reviewing this post!
