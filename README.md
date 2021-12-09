@@ -18,3 +18,20 @@ To improve the situation and our relationship so the responsibilities are more e
 
 -------
 Special thanks to Nadav Rindler for peer reviewing this post!
+
+<head>
+</script>
+<title>
+Musings of all things Data Science and Product
+</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H98K7H6QQK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H98K7H6QQK');
+</script>
+</head>
