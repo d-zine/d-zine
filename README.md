@@ -15,23 +15,3 @@ How can data scientists and product managers collaborate to generate new ideas?
 As PM of a data analytics team, I currently only work with our data scientist when we need to scale a Python UAT test. I find it challenging that a data scientist may rely on the PM to formulate the solution, to really know the nuances and edge cases of the business problem, while the data scientist is primarily responsible for coding out the solution. 
 
 To improve the situation and our relationship so the responsibilities are more evenly balanced, we are scheduling biweekly Data Science meetings to brainstorm and stay up-to-date on projects. At the same time, I am studying data science, Python, and SQL to be able to work directly with data scientists to ideate on the fly and connect the dots between ideas and the business context.
-
--------
-Special thanks to Nadav Rindler for peer reviewing this post!
-
-<head>
-</script>
-<title>
-Musings of all things Data Science and Product
-</title>
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H98K7H6QQK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-H98K7H6QQK');
-</script>
-</head>
